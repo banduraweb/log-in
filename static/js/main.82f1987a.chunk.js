@@ -1,0 +1,2 @@
+(this["webpackJsonplog-in"]=this["webpackJsonplog-in"]||[]).push([[0],{3:function(e,n,t){e.exports=t(9)},8:function(e,n,t){},9:function(e,n,t){"use strict";t.r(n);var a=t(0),r=t.n(a),i=t(2),c=t.n(i);t(8);var o=function(){return r.a.createElement("div",{className:"container"},r.a.createElement("div",{className:"container__registration"}),r.a.createElement("div",{className:"container__registration2"}))};c.a.render(r.a.createElement(o,null),document.getElementById("root"))}},[[3,1,2]]]);
+//# sourceMappingURL=main.82f1987a.chunk.js.map
